@@ -1,6 +1,6 @@
-# Assistente Financeiro Universitário
+# Facilita[U]
 
-Bem-vindo ao **Assistente Financeiro Universitário**, um site desenvolvido para ajudar jovens universitários a gerenciar suas finanças de forma inteligente. Nossa plataforma conta com uma assistente virtual baseada em Inteligência Artificial para fornecer dicas, insights e auxiliar na tomada de decisões financeiras.
+Bem-vindo ao **Facilita[U]**, um site desenvolvido para ajudar jovens universitários a gerenciar suas finanças de forma inteligente. Nossa plataforma conta com uma assistente virtual baseada em Inteligência Artificial para fornecer dicas, insights e auxiliar na tomada de decisões financeiras.
 
 ## 🌟 Funcionalidades
 - **Gerenciamento de despesas e receitas**: Acompanhe suas movimentações financeiras em tempo real.
