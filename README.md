@@ -51,10 +51,3 @@ Ficamos felizes com sua contribuição! Siga os passos abaixo:
 3. Faça commit das alterações: `git commit -m 'Adicionando nova funcionalidade'`.
 4. Envie para o repositório remoto: `git push origin minha-feature`.
 5. Abra um Pull Request.
-
-## 🌟 Contato
-Caso tenha dúvidas ou sugestões, entre em contato pelo email: [seuemail@email.com](mailto:seuemail@email.com)
-
----
-Desenvolvido com ❤️ por [Hugo Takeda](https://github.com/detestably).
-
