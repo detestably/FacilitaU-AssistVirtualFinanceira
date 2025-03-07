@@ -19,11 +19,11 @@ Bem-vindo ao **Facilita[U]**, um site desenvolvido para ajudar jovens universit�
 ## 📝 Instalação
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/assistente-financeiro.git
+   git clone https://github.com/detestably/FacilitaU-AssistVirtualFinanceira
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd assistente-financeiro
+   cd FacilitaU-AssistVirtualFinanceira
    ```
 3. Instale as dependências:
    ```bash
